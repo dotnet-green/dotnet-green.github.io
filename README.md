@@ -4,6 +4,8 @@ This repository is the home for dotnet-green home.
 This is the project forks that focus and promotes all projects that are green. Almost all browsers now support green versions only. The purpose is to promote standard and apply changes effectively and reduce the cost of supporting backward compatibility.
 Browser application development is closely tied with server applications and hence server applications should also be green to keep up with standards, tools and focus of development. This site promotes and publishes and advertises the projects that are green projects in .NET development. This will support and align with .NET release changes.
 
+This will also host some repositories where some projects are not current and need a fork to be maintained where it is kept green.
+
 This means that these projects support the following principles:
 
 Product has a supported version (upgraded) for latest .NET CLR within the first quarter of release of .NET.
@@ -12,6 +14,7 @@ Migrate (remove deprecated and obsolete feature references) to the new version w
 
 To add your project in this list, simply submit a pull request and will be updated within 24 hours.
 
+Products/Projects:
 
 License
 =======
